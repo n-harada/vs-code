@@ -1,0 +1,36 @@
+{
+    "[python]": {},
+    "python.jediEnabled": false,
+    "window.zoomLevel": -1,
+    "breadcrumbs.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "sshfs.configs": [
+        {
+            "host": "n_harada@rainbow.iis.u-tokyo.ac.jp",
+            "label": "Rainbow",
+            "name": "Rainbow",
+            "password": "jasmine0519",
+            "putty": true,
+            "root": "/data3/n_harada/now_working",
+            "username": "n_harada"
+        }
+    ],
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoGuessEncoding": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html"
+      },
+      "emmet.syntaxProfiles": {
+        "html": {
+          "attr_quotes": "single"
+        },
+        "jsx": {
+          "self_closing_tag": true
+        }
+      },
+      "highlight-matching-tag.highlightFromContent": true,
+      "highlight-matching-tag.highlightSelfClosing": true
+}
